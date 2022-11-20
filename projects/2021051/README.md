@@ -8,7 +8,7 @@ inf2021051
 | 3 | Συμμετοχικό περιεχόμενο A1 |https://github.com/courses-ionio/help/discussions/1193 | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) |https://github.com/courses-ionio/help/discussions/1325 | |
 | 5 | Συμμετοχικό περιεχόμενο A2 |https://github.com/courses-ionio/help/discussions/1463 | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |https://github.com/courses-ionio/help/discussions/1691 | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
